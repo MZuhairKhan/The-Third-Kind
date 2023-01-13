@@ -27,4 +27,4 @@ And if you get through all the challenges, we have a special surprise for you!
 
 Let us know by creating an issue on Github or sending us an [email](mailto:khanmohammadzuhair@gmail.com).
 
-# bonus challenge was inspired by college club hackathon [problem](https://github.com/Quantum-Computing-Club-IIITDWD/QCCHackathon-2022)
+bonus challenge was inspired by college club hackathon [problem](https://github.com/Quantum-Computing-Club-IIITDWD/QCCHackathon-2022)
