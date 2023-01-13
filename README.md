@@ -31,4 +31,4 @@ Let us know by creating an issue on Github or sending us an [email](mailto:khanm
 
 # Credits
 
-Bonus challenge was inspired by a college club hackathon [problem](https://github.com/Quantum-Computing-Club-IIITDWD/QCCHackathon-2022). Check it out!
+The bonus challenge was inspired by a college club hackathon problem. Check it out [here](https://github.com/Quantum-Computing-Club-IIITDWD/QCCHackathon-2022)!
